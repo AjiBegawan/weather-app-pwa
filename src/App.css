@@ -1,13 +1,13 @@
 html, body, #root {
-   font: 0.9rem sans-serif;
-   background: #0a1f44;
+   font: 0.9rem 'JetBrains Mono';
+   /* background: #0a1f44; */
    color: #1e2432;
    height: 100%;
    margin: 0;
 }
 
 .main-container {
-   background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.418) ), url('https://hdwallpaper20.com/wp-content/uploads/2017/07/wallpaper-wp4001752.jpg');
+   background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.418) );
    background-size: cover;
    background-position: center;
 }
